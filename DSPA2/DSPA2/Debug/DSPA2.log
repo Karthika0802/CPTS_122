@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\karth\source\repos\DSPA2\DSPA2\main.c(13,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DSPA2.vcxproj -> C:\Users\karth\source\repos\DSPA2\Debug\DSPA2.exe
