@@ -1,0 +1,14 @@
+﻿  functions.cpp
+C:\Users\karth\source\repos\DSPA5\DSPA5\Header.h(109,15): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\karth\source\repos\DSPA5\DSPA5\Header.h(228,1): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\karth\source\repos\DSPA5\DSPA5\Header.h(250,1): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\karth\source\repos\DSPA5\DSPA5\functions.cpp(101,13): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\karth\source\repos\DSPA5\DSPA5\functions.cpp(106,13): warning C4553: '==': result of expression not used; did you intend '='?
+  main.cpp
+C:\Users\karth\source\repos\DSPA5\DSPA5\Header.h(109,15): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\karth\source\repos\DSPA5\DSPA5\Header.h(228,1): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\karth\source\repos\DSPA5\DSPA5\Header.h(250,1): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\karth\source\repos\DSPA5\DSPA5\main.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\karth\source\repos\DSPA5\DSPA5\main.cpp(29,11): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+  DSPA5.vcxproj -> C:\Users\karth\source\repos\Exam2P3\Debug\DSPA5.exe
